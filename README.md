@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎Iam a software engineering student at the Applied Sciences School in Khouribga. I have a passion for programming and problem-solving.
+Iam a software engineering student at the Applied Sciences School in Khouribga. I have a passion for programming and problem-solving.
 
 As a student, I have completed several projects that have enhanced my skills and understanding.
 
